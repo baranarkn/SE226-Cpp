@@ -1,0 +1,19 @@
+# ninja log v5
+0	310	6998982034755019	CMakeFiles/cProjects.dir/main.cpp.obj	3fe4abadec50675a
+312	424	6998982035872036	cProjects.exe	55973cf4a9b4cc7a
+3	318	6998982722016629	CMakeFiles/cProjects.dir/main.cpp.obj	3fe4abadec50675a
+319	401	6998982722814498	cProjects.exe	55973cf4a9b4cc7a
+2	294	6998983950504963	CMakeFiles/cProjects.dir/main.cpp.obj	3fe4abadec50675a
+294	380	6998983951342731	cProjects.exe	55973cf4a9b4cc7a
+3	311	6998984409646708	CMakeFiles/cProjects.dir/main.cpp.obj	3fe4abadec50675a
+312	390	6998984410404674	cProjects.exe	55973cf4a9b4cc7a
+2	345	6998987876697653	CMakeFiles/cProjects.dir/main.cpp.obj	3fe4abadec50675a
+346	451	6998987877734870	cProjects.exe	55973cf4a9b4cc7a
+4	326	6998988194441794	CMakeFiles/cProjects.dir/main.cpp.obj	3fe4abadec50675a
+326	413	6998988195289523	cProjects.exe	55973cf4a9b4cc7a
+2	296	6998988836196238	CMakeFiles/cProjects.dir/main.cpp.obj	3fe4abadec50675a
+297	391	6998988837124922	cProjects.exe	55973cf4a9b4cc7a
+2	305	6998992942039339	CMakeFiles/cProjects.dir/main.cpp.obj	3fe4abadec50675a
+305	381	6998992942777945	cProjects.exe	55973cf4a9b4cc7a
+2	313	6998993885576292	CMakeFiles/cProjects.dir/main.cpp.obj	3fe4abadec50675a
+313	417	6998993886593563	cProjects.exe	55973cf4a9b4cc7a
