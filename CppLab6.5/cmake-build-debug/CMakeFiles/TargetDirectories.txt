@@ -1,0 +1,3 @@
+C:/CppLab6.5/cmake-build-debug/CMakeFiles/CppLab6_5.dir
+C:/CppLab6.5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CppLab6.5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
